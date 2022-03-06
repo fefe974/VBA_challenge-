@@ -16,8 +16,6 @@ going from the highest return in 2017 with 199% to the worst return with 62.6% i
 Code refactoring was made to previous code, making it more efficient. 2017 original code gave us results in 0.98 secs and, 2018 original code was 
 running in 0.99 sec. We could improve the result time in 2017 (0.18 sec) and 2018 (0.12 sec) as we refactor our code. 
 
-(See Resourses folder for images of code time and stock analysis)
-
 ## Summary
 
 ### What are the advantages or disadvantages of refactoring code?
